@@ -5,9 +5,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Developed a full-stack web application which provides a single link to users as a gateway to their custom page with dashboard containing all links about their company, business, brand.
 <br/>
-Real-time analysis of links enabling users to change their business strategy by tracking incoming traffic on the links
+<br/>
+Real-time analysis of all the links enabling users to change their business strategy by tracking incoming traffic on the links!
+<br/>
 <br/>
 Implemented Google OAuth for user login and authentication, MongoDB to store, manage and manipulate user data in the backend, Tailwind CSS and React.js for designing navigation pages in the frontend.
+<br/>
 <br/>
 
 ## Getting Started
