@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## OneLink | JavaScript, AWS, Tailwind CSS, MongoDB, Next.js, React.js
+
+Developed a full-stack web application which provides a single link to users as a gateway to their custom page with dashboard containing all links about their company, business, brand.
+<br/>
+Real-time analysis of links enabling users to change their business strategy by tracking incoming traffic on the links
+<br/>
+Implemented Google OAuth for user login and authentication, MongoDB to store, manage and manipulate user data in the backend, Tailwind CSS and React.js for designing navigation pages in the frontend.
+<br/>
+
 ## Getting Started
 
 First, run the development server:
